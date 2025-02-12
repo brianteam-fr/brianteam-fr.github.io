@@ -1,11 +1,11 @@
 {
-    "name": "brian_admin_panell",
-    "short_name": "brian_admin_panell",
+    "name": "play_n_connect_admin_panel",
+    "short_name": "play_n_connect_admin_panel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Admin panel Play N Connect.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
